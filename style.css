@@ -313,7 +313,7 @@ h1 small {
 }
 .footer_resize {
 	margin:0 auto;
-	padding:3px 15px;
+	padding:025px 15px;
 	width:940px;
 	background:#97c950;
 	color:#fff;
@@ -350,7 +350,7 @@ h1 small {
 	display: flex;
 	align-items: right;
 	justify-content: right;
-	margin: 1rem 0 3rem 0 ;
+	margin: 0rem 0 0rem 0 ;
 }
 
 .socials li{
@@ -373,8 +373,16 @@ h1 small {
 
 
 
-
-
+ .cnextimg {
+	float:left;
+	margin:5px;
+	padding:0;
+}
+.cnextimg{
+	float:left;
+	margin:20px 0px 0px 250px;
+	padding:0;
+} 
 
 
 
